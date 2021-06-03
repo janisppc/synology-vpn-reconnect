@@ -19,3 +19,15 @@ Use this guide to install the script: https://blog.harrier.us/reconnecting-a-fai
 - On the bottom of the Task Settings tab, paste the entire script into the User-defined script box.
 
 - Finally, click the OK button to close the Create task window and then click the Save button to save the changes to the Task Scheduler.
+
+# Other links:
+
+https://global.download.synology.com/download/Document/Software/DeveloperGuide/Firmware/DSM/All/enu/Synology_DiskStation_Administration_CLI_Guide.pdf
+
+https://community.synology.com/enu/forum/2/post/134093?reply=424188
+
+https://gist.github.com/GamerGun/20f08da8ff2712db6e62c5edc83fd541
+
+https://community.synology.com/enu/forum/2/post/134669
+
+https://www.cyberciti.biz/faq/linux-setup-default-gateway-with-route-command/
